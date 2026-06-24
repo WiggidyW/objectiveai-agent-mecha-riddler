@@ -24,7 +24,8 @@
             "name": "discord",
             "arguments": {
               "mode": "full",
-              "tag": "riddler"
+              "tag": "riddler",
+              "max_message_length": 512
             }
           }
         ]
